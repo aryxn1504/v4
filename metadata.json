@@ -1,0 +1,6 @@
+{
+  "name": "THE GARIMA EDITION",
+  "description": "A premium, luxury digital magazine and emotionally immersive romantic scrapbook celebrating love and cherished memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
